@@ -201,3 +201,13 @@ h1 {
     height: 0em;
     line-height: 0;
 }
+
+.image-years-icon {
+    display: inline-flex;
+    max-height: 80px;
+}
+
+.year-icon {
+    text-align: center;
+    padding: 10px;
+}
