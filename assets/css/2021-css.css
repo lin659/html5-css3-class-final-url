@@ -203,7 +203,7 @@ h1 {
 }
 
 .image-years-icon {
-    display: inline-flex;
+    display: inline;
     max-height: 80px;
 }
 
