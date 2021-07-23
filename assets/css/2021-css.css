@@ -205,6 +205,7 @@ h1 {
 .image-years-icon {
     display: inline-flex;
     max-height: 80px;
+    height: 80px;
 }
 
 .year-icon {
